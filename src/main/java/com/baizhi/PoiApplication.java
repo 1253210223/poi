@@ -10,6 +10,7 @@ public class PoiApplication {
         SpringApplication.run(PoiApplication.class, args);
         System.out.println("wq");
         System.out.println("wqqqq");
+        System.out.println("吃饭了吗？");
     }
 
 }
